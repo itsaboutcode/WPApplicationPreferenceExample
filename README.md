@@ -1,4 +1,6 @@
 WPApplicationPreferenceExample
 ==============================
+![][1]
 
-![](https://jumpshare.com/v/RSyReTpV9ijcLrZpepVL?b=2u0GicYnVwxZYq9JbhFh)
+
+  [1]: http://i.stack.imgur.com/Pd5ZZ.png
