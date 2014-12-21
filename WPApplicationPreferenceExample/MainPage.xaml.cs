@@ -57,6 +57,8 @@ namespace WPApplicationPreferenceExample
             var applicationSetting = Windows.Storage.ApplicationData.Current.LocalSettings;
             if (applicationSetting.Values["setting"] != null)
                 output.Text = applicationSetting.Values["setting"].ToString();
+            else
+                output.Text = "";
         }
 
         private void RemoveSettings_Clicked(object sender, RoutedEventArgs e)
